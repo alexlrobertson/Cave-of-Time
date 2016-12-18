@@ -1,0 +1,8 @@
+nodes:
+        - start: 3
+          end: 4
+          choice: If you decide to start back home
+        - start: 3
+          end: 5
+          choice: If you decide to wait
+
